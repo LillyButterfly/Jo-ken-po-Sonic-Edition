@@ -1,0 +1,17 @@
+:root {
+  --font-family: 'Press Start 2P', system-ui;
+
+  --primary-color: #FFFFFF;
+  --yellow: #FFBA00;
+  --dark-blue: #00329C;
+  --grayish: #36516D;
+  
+  --bg-gradient: linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.6) 50%, rgba(0, 0, 0, 0.4) 100%);
+  --shadow: rgba(3, 2, 7, 0.9);
+
+  --cursor-url: url(../assets/img/cursor.png);
+  --cursor-click-url: url(../assets/img/cursor-click.png);
+
+  --btn-gradient: linear-gradient(315deg, #FFBA00 0%, #FFBA00 74%);
+  --btn-gradient-after: linear-gradient(315deg, #00329C 0%, #00329C 74%);
+}
