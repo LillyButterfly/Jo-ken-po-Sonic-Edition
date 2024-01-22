@@ -3,6 +3,12 @@
 
 Este é um projeto de jogo de cartas "Jo-ken-po" (Pedra, Papel e Tesoura) desenvolvido como parte do Bootcamp de Jogos da Digital Innovation One (DIO). O jogo apresenta personagens do universo Sonic, onde o jogador compete contra o computador escolhendo cartas e tentando vencer seus oponentes.
 
+<img width="958" alt="llll" src="https://github.com/LillyButterfly/Jo-ken-po-Sonic-Edition/assets/88951197/9f29a037-d027-4cae-a1a2-b3bc21899ac9">
+<br> <br>
+<img width="957" alt="jjjjj" src="https://github.com/LillyButterfly/Jo-ken-po-Sonic-Edition/assets/88951197/bba80f5c-d381-4cd3-8132-cf6cff4bc981">
+<br> <br>
+<img width="957" alt="dddd" src="https://github.com/LillyButterfly/Jo-ken-po-Sonic-Edition/assets/88951197/fb0281c9-bb0b-4283-80cf-d8b13a8fcafa">
+
 ## Sobre o Jogo
 O jogo é uma implementação simples do clássico Jo-ken-po com algumas reviravoltas emocionantes, incorporando personagens populares do Sonic. O jogador escolhe uma carta, que é então comparada à escolha do computador. Com base nas regras do jogo, o resultado é determinado, e a pontuação é atualizada.
 
